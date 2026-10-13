@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+pipeline.log
+data/warehouse.db
+data/raw/*.csv
+reports/*.png
+reports/*.csv
+reports/*.pdf
